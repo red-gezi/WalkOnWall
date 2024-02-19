@@ -1,7 +1,7 @@
 # WalkOnWall
 一个模仿崩坏星穹铁道匹诺康尼地图中人物在墙上行走效果的技术预研demo
 
-A technical research demo that mimics the character's walking on the wall effect in the Pinocchio map of the game Star Rail
+A technical research demo that mimics the character's walking on the wall effect in the Penacory map of the game Star Rail
 
 ## Requirements
 
