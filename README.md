@@ -20,7 +20,10 @@ Unity Version: 2022 Lts版本
 
 ## Viedo
 https://github.com/red-gezi/WalkOnWall/assets/18701431/d84e1fbe-571a-4b67-a06c-4bd87d22e339
+# 投食码
++ 觉得好用可以请我吃雪糕
 
++ ![支付宝](/img/pay.png)
 
 
 
