@@ -17,7 +17,8 @@ Unity Version: 2022 Lts版本
 [UnityGenshinToonShader](https://github.com/kaze-mio/UnityGenshinToonShader)
 
 ## Screenshots
-
++ ![演示图片](/img/1.png)
++ ![演示图片](/img/2.png)
 ## Viedo
 https://github.com/red-gezi/WalkOnWall/assets/18701431/d84e1fbe-571a-4b67-a06c-4bd87d22e339
 # 投食码
